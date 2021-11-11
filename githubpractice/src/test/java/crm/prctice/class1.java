@@ -9,6 +9,7 @@ public class class1 {
 	public void demo() 
 	{
 		System.out.println("github test");
+		System.out.println("conflict1");
 	}
 
 
