@@ -7,6 +7,7 @@ public class dummy2 {
 	@Test
 	public void du() {
 		System.out.println("kkjh");
+		System.out.println("conflict");
 	}
 
 }
